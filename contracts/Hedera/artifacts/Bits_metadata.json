@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Hedera/KeyHelper.sol": "Bits"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Hedera/HederaResponseCodes.sol": {
+			"keccak256": "0x8fb241071e3f99ca11181dcd07ec7934ac40c8b4d9c31428be5478e0697a4435",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://9254e95fe31e42419d4ff79ecbe0bf5453d9052b232d5adb013ef1bab6d67612",
+				"dweb:/ipfs/QmdA7Ne6taK2pXkcDTK6Fr51BZBKqoukTVvFSqwkieAPCv"
+			]
+		},
+		"contracts/Hedera/HederaTokenService.sol": {
+			"keccak256": "0xa880fc7f1ef04ccacb71158c639f25474ffe8221567c2ce17f8285f91fa5987c",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://ccfabd06e3209f6b02592479cb37b488dea4367468c1ddfb669c675d6401fa19",
+				"dweb:/ipfs/QmdABpC8mdxuPrQ9quQHBZX25NcD5Vdcse17HAduK1fqQN"
+			]
+		},
+		"contracts/Hedera/IHederaTokenService.sol": {
+			"keccak256": "0x1c6432c640e9b9961afc23d8641f951e2a8ed95293ed3a40995102537a49ccb0",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://8af59f4815cc9e231e8fd1a8de91ef00cd1de7118d267a6fd54fea6831474919",
+				"dweb:/ipfs/QmTsZaBFZ6cb1sYTSAxwLo9eFbVVGjasfqhZQRaLyK1rkc"
+			]
+		},
+		"contracts/Hedera/KeyHelper.sol": {
+			"keccak256": "0xecf2e7baa06e56829d100fd4fc8ac410a33031170c2d0fc3ff6d7208c13e7fa6",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://8dd967e3e46a82924b071af514b4f586cea30de2fd7100c5cbfb5fef8e5dd97c",
+				"dweb:/ipfs/QmNjEhsp6ZPGtFBKta8bwYRLpdpNh1g3iUzLU2zNV9R4q1"
+			]
+		}
+	},
+	"version": 1
+}

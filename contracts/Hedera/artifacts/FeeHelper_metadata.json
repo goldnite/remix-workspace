@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Hedera/FeeHelper.sol": "FeeHelper"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Hedera/FeeHelper.sol": {
+			"keccak256": "0x25c50c56ff4297d4f3d88f337ad64a1e4e79c1af287cd6a61811176c180ea23d",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://4f66f9d7951489487a1db9798ee82532218ab316bfff90be9ac96564479a9aa3",
+				"dweb:/ipfs/QmcCk1QCb5MhW2G5fHDdDMSuhpAE2DaAkTYmZvLmP7tDDy"
+			]
+		},
+		"contracts/Hedera/IHederaTokenService.sol": {
+			"keccak256": "0x1c6432c640e9b9961afc23d8641f951e2a8ed95293ed3a40995102537a49ccb0",
+			"license": "Apache-2.0",
+			"urls": [
+				"bzz-raw://8af59f4815cc9e231e8fd1a8de91ef00cd1de7118d267a6fd54fea6831474919",
+				"dweb:/ipfs/QmTsZaBFZ6cb1sYTSAxwLo9eFbVVGjasfqhZQRaLyK1rkc"
+			]
+		}
+	},
+	"version": 1
+}
